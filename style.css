@@ -1,0 +1,115 @@
+* {
+    
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0 10%;
+}
+
+h1 {
+    font-family: 'Nunito Sans', sans-serif;
+    font-size: 26px;
+    font-weight: bold;
+    margin-top: 20px;
+}
+
+h2 {
+    font-weight: 500px;
+    font-size: 25px;
+    font-family: 'lato', sans-serif;
+    text-transform: capitalize;
+    margin-bottom: 10px;
+}
+
+p {
+    font-weight: 400px;
+    font-size: 14px;
+    font-family: 'Merriweathre', sans-serif;
+}
+
+
+
+.mainsection {
+    border: 2px solid #8A2BE2;
+    margin: 5px auto;
+    padding-left: 15px;
+}
+
+.colors, .font {
+    width: 100%
+}
+
+.colors p {
+    font-size: 18px;
+}
+
+.darkslateblue, .darkslategray, .darkorchid, .teal, .springgreen {
+    color: #fff;
+    padding: 15px;
+    width: 30%;
+    margin: 5px;
+    text-align: center;
+    display: inline-block;
+}
+
+.darkslateblue {
+    background-color: #483D8B;
+}
+
+.darkslategray {
+    background-color: #2F4F4F;
+}
+
+.darkorchid {
+    background-color: #9932CC;
+}
+
+.teal {
+    background-color: #008080;
+}
+
+.springgreen {
+    background-color: #00FF7F;
+}
+
+.font p {
+    font-size: 1.5em;
+    
+}
+
+.fontname {
+    text-decoration: underline;
+    font-weight: bold;
+}
+
+.fonttype {
+    width: 400px;
+    padding: 0 20px;
+}
+
+.fonttype {
+    padding: 15px;
+    width: 30%;
+    margin: 5px;
+    display: inline-block;
+}
+.agdasima {
+    font-family: 'agdasima';
+}
+
+.nunito {
+    font-family: 'Nunito Sans';
+}
+
+.merriweather {
+    font-family: 'Merriweather';
+}
+
+ul li {
+    font-size: 18px;
+}
+
+.textstyle p {
+    font-size: 15px;
+}
